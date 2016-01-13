@@ -1,0 +1,16 @@
+.square {
+  width: 2em;
+  height: 2em;
+  display: inline-block;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  margin: 1px;
+}
+
+.select {
+  background-color: #111;
+}
+
+.food {
+  background-color: #999;
+}
